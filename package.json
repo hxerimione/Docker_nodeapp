@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "> docker run -d -it --name node_app -v /Users/janghyerim/node-app:/app node:current-apline3.15",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hxerimione/Docker_nodeapp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hxerimione/Docker_nodeapp/issues"
+  },
+  "homepage": "https://github.com/hxerimione/Docker_nodeapp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
