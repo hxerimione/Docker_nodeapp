@@ -1,4 +1,4 @@
-# NodeJS 어플리케이션 도커 배포
+# 도커와 AWS EC2를 이용한 정적 웹페이지 배포
 ### [블로그 링크](https://hxerimione.tistory.com/6)
 
 ### 컨테이너 실행
